@@ -1,0 +1,19 @@
+.circle ,.sqr{
+    margin-top: 15px;
+    margin-left: 80px;
+        width: 200px;
+    height: 200px;
+    
+    }
+    .circle{
+        background-color:#000000;
+        border-radius:100%;
+        margin-bottom: 5px;
+    }
+    hr{width: 1728px;
+        height: 3px;
+        top: 1118px;
+        gap: 0px;
+        opacity: 0px;
+        background: #000000;
+    }
